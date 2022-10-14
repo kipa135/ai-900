@@ -8,8 +8,9 @@ https://github.com/digicope/ai-900
 
 #### Microsoft Certified: Azure AI Fundamentals
 https://learn.microsoft.com/ko-kr/certifications/azure-ai-fundamentals/
-
 <br>
+
+#### Azure 홈페이지
 https://azure.microsoft.com/ko-kr/
 
 
