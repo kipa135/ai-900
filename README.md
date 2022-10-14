@@ -10,5 +10,9 @@ https://learn.microsoft.com/ko-kr/certifications/azure-ai-fundamentals/
 
 #### Azure 홈페이지
 https://azure.microsoft.com/ko-kr/
+<br>
+
+#### 기출 문제(examtopics)
+https://www.examtopics.com/exams/microsoft/ai-900/view/
 
 
