@@ -1,7 +1,6 @@
 # AI-900 자격증 취득 과정
 
 - 강사 : 고병화
-<br>
 - E-mail : digicope@aicore.co.kr
 
 <br>
